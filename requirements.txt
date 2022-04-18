@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+alembic 
+sqlalchemy
+sqlalchemy-utils
+python-slugify
+jinja2
